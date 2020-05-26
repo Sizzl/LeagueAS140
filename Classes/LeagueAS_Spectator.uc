@@ -1,0 +1,1 @@
+class LeagueAS_Spectator extends CHSpectator;
